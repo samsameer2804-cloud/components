@@ -1,4 +1,4 @@
-package yoshuawuyts:acp@4.0.0;
+package yosh:acp;
 
 /// Prompt turns, streaming session updates, and slash commands.
 ///

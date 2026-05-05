@@ -1,4 +1,4 @@
-package yoshuawuyts:acp@4.0.0;
+package yosh:acp;
 
 /// An ACP agent component: exports [`agent`] (driven by the host) and imports
 /// [`client`] (for fs, terminal, and permission callbacks).

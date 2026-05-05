@@ -1,4 +1,4 @@
-package yoshuawuyts:acp@4.0.0;
+package yosh:acp;
 
 /// Session lifecycle types: identifiers, MCP server configuration, modes, and
 /// new/load/list/resume payloads.
