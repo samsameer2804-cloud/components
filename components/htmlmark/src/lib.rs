@@ -1,5 +1,5 @@
 use html2md::parse_html;
-use pulldown_cmark::{Parser, html};
+use pulldown_cmark::{html, Parser};
 use readability::extractor;
 use url::Url;
 
